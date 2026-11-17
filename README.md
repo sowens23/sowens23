@@ -2,6 +2,12 @@
 
 Computer Science BS/MS student at the University of Alaska Fairbanks and Cyber Systems Technician in the U.S. Air Force Reserve. I build backend systems, cloud pipelines, and tools that turn messy data into something people can use.
 
+📄 **[Resume (PDF)](Spencer_Owens_Resume.pdf)**
+
+## Recognition
+
+- **[BLaST Scientist of the Month, February 2025](https://www.uaf.edu/news/blast-som-february-2025.php):** UAF feature on my cloud development work at the Alaska Satellite Facility, NASA rover challenge work with the UAF Robotics Team, and embedded GPU research for genetic data processing *(published under my previous surname)*
+
 **Seeking Summer 2027 software engineering internships.** Active Secret clearance.
 
 ## Featured Projects
