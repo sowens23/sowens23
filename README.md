@@ -8,11 +8,11 @@ Computer Science BS/MS student at the University of Alaska Fairbanks and Cyber S
 
 | Project | What it is | Tech |
 | --- | --- | --- |
-| [UMovie](https://github.com/sowens23/CS-F372-Final) | Full-stack movie platform; I owned the backend and database | Node.js, MongoDB, JavaScript |
-| [Nilgai Interpreter](https://github.com/sowens23/CS-F331) | Lexer, recursive-descent parser, and AST interpreter for a small language | Lua |
-| [C++ Containers & TimSort](https://github.com/sowens23/CS-F311) | STL-compatible templated array with iterators and exception safety; TimSort honors project | C++ |
-| [Forest Fire Detection](https://github.com/sowens23/CS-F680) | CNNs classifying fire in ~48,000 aerial drone images | Python, TensorFlow/Keras |
-| [Systems Programming](https://github.com/sowens23/CS-F321) | Processes, sockets, shared memory, threads, and semaphores | C, Linux |
+| [UMovie](https://github.com/sowens23/UMovie) | Full-stack movie platform; I owned the backend and database | Node.js, MongoDB, JavaScript |
+| [Nilgai Interpreter](https://github.com/sowens23/nilgai-interpreter) | Lexer, recursive-descent parser, and AST interpreter for a small language | Lua |
+| [C++ Containers & TimSort](https://github.com/sowens23/cpp-containers-and-timsort) | STL-compatible templated array with iterators and exception safety; TimSort honors project | C++ |
+| [Forest Fire Detection](https://github.com/sowens23/forest-fire-detection) | CNNs classifying fire in ~48,000 aerial drone images | Python, TensorFlow/Keras |
+| [Linux Systems Programming](https://github.com/sowens23/linux-systems-programming) | Processes, sockets, shared memory, threads, and semaphores | C, Linux |
 
 ## Tech
 
