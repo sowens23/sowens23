@@ -2,7 +2,7 @@
 
 Computer Science BS/MS student at the University of Alaska Fairbanks and Cyber Systems Technician in the U.S. Air Force Reserve. I build backend systems, cloud pipelines, and tools that turn messy data into something people can use.
 
-📄 **[Resume (PDF)](https://github.com/sowens23/sowens23/raw/main/Spencer_Owens_Resume.pdf)**
+📄 **[Resume (PDF Download)](Spencer_Owens_Resume.pdf)**
 
 ## Recognition
 
